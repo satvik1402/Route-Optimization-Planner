@@ -15,8 +15,6 @@ An intelligent routing system that optimizes logistics operations for **cost, ti
 - [Data Analysis](#data-analysis)
 - [Business Impact](#business-impact)
 - [Project Structure](#project-structure)
-- [Future Enhancements](#future-enhancements)
-
 ---
 
 ## Problem Statement
@@ -305,93 +303,22 @@ project/
 - **requirements.txt**: List of required Python packages
 - **README.md**: Comprehensive documentation and user guide
 - **Innovation_Brief.pdf**: Business case and innovation proposal
-
 ---
 
+### Images
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/f2dfaec7-6957-4c95-9818-e310ec471d10" />
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/7cc44210-dd25-4880-9c1a-c7cc08e2888a" />
+<img width="1918" height="975" alt="image" src="https://github.com/user-attachments/assets/79ebd6d8-0035-479e-8660-99336523d79b" />
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/159d8046-a00d-4ccd-8285-6493764daeff" />
+<img width="307" height="967" alt="image" src="https://github.com/user-attachments/assets/5f1fd626-0928-4f38-a064-5e17b5f1db85" />
 
-## Future Enhancements
 
-### Phase 2 Features
-1. **Real-Time GPS Integration**: Live vehicle tracking and route updates
-2. **Machine Learning Predictions**: Predictive analytics for delivery times
-3. **Dynamic Route Adjustment**: Real-time rerouting based on traffic/weather
-4. **Mobile Application**: iOS/Android apps for drivers
-5. **API Integration**: Connect with existing ERP systems
 
-### Phase 3 Features
-1. **Multi-Stop Optimization**: Complex route planning for multiple deliveries
-2. **Fleet Management**: Vehicle health monitoring and maintenance scheduling
-3. **Driver Performance**: Driver scoring and gamification
-4. **Customer Portal**: Real-time tracking for customers
-5. **AI Chatbot**: Natural language queries for route planning
 
-### Advanced Analytics
-1. **Predictive Maintenance**: Forecast vehicle maintenance needs
-2. **Demand Forecasting**: Predict order volumes and optimize capacity
-3. **Network Optimization**: Warehouse location optimization
-4. **Price Optimization**: Dynamic pricing based on route efficiency
 
----
 
-## Code Quality
 
-### Best Practices Implemented
-- **Clean Code**: Well-documented, readable code with comments  
-- **Modular Design**: Functions for data loading, calculations, and visualizations  
-- **Error Handling**: Graceful handling of missing data and edge cases  
-- **Performance**: Efficient data processing with caching (@st.cache_data)  
-- **User Experience**: Intuitive interface with clear instructions  
-- **Responsive Design**: Works on desktop and tablet devices  
 
-### Code Statistics
-- Total Lines: ~600
-- Functions: 3 main functions
-- Visualizations: 11 interactive charts
-- Metrics Tracked: 15+ KPIs
-- Comments: Comprehensive inline documentation
 
----
 
-## Support & Contact
 
-For questions, issues, or suggestions:
-
-- **Technical Issues**: Check data file path and Python version
-- **Feature Requests**: Document in project notes
-- **Bug Reports**: Review error messages and data integrity
-
----
-
-## License
-
-This project is created for the NexGen Logistics Innovation Challenge.
-
----
-
-## Acknowledgments
-
-- **NexGen Logistics**: For the opportunity to solve real-world logistics challenges
-- **Streamlit**: For the excellent framework enabling rapid development
-- **Plotly**: For powerful interactive visualization capabilities
-
----
-
-## Version History
-
-### v1.0.0 (Current)
-- Complete route optimization system
-- 10+ interactive visualizations
-- Multi-criteria optimization engine
-- Advanced filtering and sorting
-- Export functionality
-- Comprehensive documentation
-
----
-
-<div align="center">
-
-**Built for NexGen Logistics Innovation Challenge**
-
-*Transforming logistics through data-driven innovation*
-
-</div>
